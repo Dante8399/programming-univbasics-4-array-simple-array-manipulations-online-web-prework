@@ -11,5 +11,8 @@ def using_pop (array)
 end
 
 def shift_with-tags (array)
-  array.shift (2)
+  array.shift(2)
+end
+
+def using_concat
   
