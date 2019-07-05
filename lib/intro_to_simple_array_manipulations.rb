@@ -15,7 +15,7 @@ def shift_with-tags (array)
 end
 
 def using_concat 
-  [1, 2].concat([3, 4])
+  ["a", "b"].concat(["c", "d"])
 end
 
   
