@@ -10,5 +10,6 @@ def using_pop (array)
   array.pop
 end
 
-def shift_with-tags
+def shift_with-tags (array)
+  array.shift (2)
   
