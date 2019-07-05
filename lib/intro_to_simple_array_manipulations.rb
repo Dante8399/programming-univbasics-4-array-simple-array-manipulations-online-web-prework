@@ -14,8 +14,8 @@ def shift_with-tags (array)
   array.shift(2)
 end
 
-def using_concat (a, b)
-  
+def using_concat 
+  [1, 2].concat
 end
 
   
