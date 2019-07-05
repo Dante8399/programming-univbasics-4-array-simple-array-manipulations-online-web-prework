@@ -30,6 +30,18 @@ def using_insert (array, b)
   array.insert(4, b)
 end
 
+def using_uniq (array)
+  array.uniq
+end
+
+def using_flatten (array)
+  array.flatten
+end
+
+def using_delete
+  
+
+
 
 
   
